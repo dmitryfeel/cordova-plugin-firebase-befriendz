@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "796956812941",
+    "firebase_url": "https://befriends1-e6d02.firebaseio.com",
+    "project_id": "befriends1-e6d02",
+    "storage_bucket": "befriends1-e6d02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796956812941:android:adebb14b92ba9683",
+        "android_client_info": {
+          "package_name": "com.ua.befriendz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796956812941-i8893013i1gfhu677njt2titps95u7e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYQCl-xjH3eo3TGKqEA2WG_-wUJ8HOxps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
